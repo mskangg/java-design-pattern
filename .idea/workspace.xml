@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb29c9e3-c126-41cd-ba7c-8d5def43621d" name="Default Changelist" comment="" />
+    <list default="true" id="eb29c9e3-c126-41cd-ba7c-8d5def43621d" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/img/singleton/01.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/Settings6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/singleton.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/Settings1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/Settings1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/Settings2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/Settings2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/Settings3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/whiteship/designpatterns/_01_creational_patterns/_01_singleton/Settings3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,9 +54,19 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="package-info" />
-        <option value="Class" />
         <option value="JUnit5 Test Class" />
+        <option value="Class" />
       </list>
+    </option>
+  </component>
+  <component name="FormatOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+    <option name="myAllFileTypesSelected" value="false" />
+    <option name="mySelectedFileTypes">
+      <set>
+        <option value="JAVA" />
+        <option value="Markdown" />
+      </set>
     </option>
   </component>
   <component name="Git.Settings">
@@ -70,6 +90,15 @@
       </MavenGeneralSettings>
     </option>
   </component>
+  <component name="OptimizeOnSaveOptions">
+    <option name="myRunOnSave" value="true" />
+    <option name="myAllFileTypesSelected" value="false" />
+    <option name="mySelectedFileTypes">
+      <set>
+        <option value="JAVA" />
+      </set>
+    </option>
+  </component>
   <component name="ProjectId" id="1rhB8wjnIiKxdi0L69wxErWl4Q4" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -87,10 +116,12 @@
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/test/java" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="actions.on.save" />
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
@@ -98,6 +129,9 @@
     </key>
     <key name="CreateTestDialog.Recents.Supers">
       <recent name="" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/img/singleton" />
     </key>
     <key name="CreateTestDialog.RecentsKey">
       <recent name="singleton.case1" />
@@ -246,7 +280,8 @@
       <workItem from="1660226427695" duration="124000" />
       <workItem from="1660226759586" duration="109000" />
       <workItem from="1660226896162" duration="131000" />
-      <workItem from="1660227050633" duration="699000" />
+      <workItem from="1660227050633" duration="4918000" />
+      <workItem from="1660235184405" duration="1212000" />
     </task>
     <servers />
   </component>
@@ -263,5 +298,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

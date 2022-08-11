@@ -7,7 +7,8 @@ public class Settings1 {
 
     private static Settings1 instance;
 
-    private Settings1() { }
+    private Settings1() {
+    }
 
     public static Settings1 getInstance() {
         if (instance == null) {
@@ -16,5 +17,4 @@ public class Settings1 {
 
         return instance;
     }
-
 }
