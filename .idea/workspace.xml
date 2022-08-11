@@ -4,38 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="eb29c9e3-c126-41cd-ba7c-8d5def43621d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries-with-intellij-classes.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/case1/EagerSingleton.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/case2/LazySingletonDCL.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/case3/LazySingletonEnum.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/singleton/case4/LazySingletonHolder.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/templatemethod/case1/Car.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/templatemethod/case1/Santafe.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/templatemethod/case1/Tesla.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/templatemethod/case2/AdvancedPlayerLevel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/templatemethod/case2/BeginnerPlayerLevel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/templatemethod/case2/IntermediatePlayerLevel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/templatemethod/case2/Player.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/templatemethod/case2/PlayerLevel.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/singleton/SingletonTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/templatemethod/case1/CarTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/templatemethod/case2/PlayerTest.java" beforeDir="false" />
-    </list>
+    <list default="true" id="eb29c9e3-c126-41cd-ba7c-8d5def43621d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -277,7 +246,7 @@
       <workItem from="1660226427695" duration="124000" />
       <workItem from="1660226759586" duration="109000" />
       <workItem from="1660226896162" duration="131000" />
-      <workItem from="1660227050633" duration="352000" />
+      <workItem from="1660227050633" duration="699000" />
     </task>
     <servers />
   </component>
